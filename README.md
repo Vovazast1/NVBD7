@@ -24,4 +24,4 @@ OLTP → Data Warehouse → OLAP Cube → Аналітичні звіти
 - Documentation/ – PDF-звіт
 
 ## Посилання
-- 🎥 YouTube: https://youtube.com/
+- 🎥 YouTube: https://youtu.be/RP2PnNz4Uxw
